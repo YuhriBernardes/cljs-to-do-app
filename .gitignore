@@ -1,0 +1,4 @@
+node_modules/
+.shadow-cljs/
+package-lock.json
+app/js/

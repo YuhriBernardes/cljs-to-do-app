@@ -1,0 +1,22 @@
+{
+  "name": "cljs-to-do-app",
+  "version": "1.0.0",
+  "description": "A `to do` app with clojurescript",
+  "scripts": {
+    "dev": "shadow-cljs watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuhriBernardes/cljs-to-do-app.git"
+  },
+  "author": "Yuhri Graziano Bernardes",
+  "license": "ISC",
+  "homepage": "https://github.com/YuhriBernardes/cljs-to-do-app#readme",
+  "devDependencies": {
+    "shadow-cljs": "2.9.0"
+  },
+  "dependencies": {
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
+  }
+}
